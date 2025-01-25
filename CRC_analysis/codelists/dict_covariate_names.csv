@@ -1,0 +1,60 @@
+covariate_readable,covariate_code,covar_code2
+Age,age,core_age
+Age-squared,age2,core_age2
+Age (baseline assessment),age_baseline,age_baseline
+Inflammation (abnormal),biom_inflam_all,biom_inflam_all
+Inflammation (measured),biom_inflam_measured,biom_inflam_measured
+Iron deficiency (abnormal),biom_iron_def,biom_iron_def
+Iron deficiency (measured),biom_iron_def_measured,biom_iron_def_measured
+(not covariate) Followup time,futime,futime
+Principle genetic component.1,gen_pc1,gen_pc1
+Principal genetic component.10,gen_pc10,gen_pc10
+Principal genetic component.2,gen_pc2,gen_pc2
+Principal genetic component.3,gen_pc3,gen_pc3
+Principal genetic component.4,gen_pc4,gen_pc4
+Principal genetic component.5,gen_pc5,gen_pc5
+Principal genetic component.6,gen_pc6,gen_pc6
+Principal genetic component.7,gen_pc7,gen_pc7
+Principal genetic component.8,gen_pc8,gen_pc8
+Principal genetic component.9,gen_pc9,gen_pc9
+Polygenic Score,gen_prs,gen_prs
+Diabetes T1 ever,mod_DIB_T1D_ever,medhist_DIB_T1D_ever
+Diabetes T2 ever,mod_DIB_T2D_ever,medhist_DIB_T2D_ever
+Gallbladder calc ever,mod_GALL_ever,medhist_GALL_ever
+IBD ever,mod_IBD_ever,medhist_IBD_ever
+Aspirin,mod_MED_ASPIRIN_reg_ever,medhist_MED_ASPIRIN_reg_ever
+NSAIDs (non-aspirin),mod_MED_NSAIDs_reg_ever,medhist_MED_NSAIDs_reg_ever
+Abdominal bloating,mrk_ABDO_BLOAT_freq_in_lb,symp_ABDO_BLOAT_freq_in_lb
+Abdominal lump,mrk_ABDO_LUMP_in_lb,symp_ABDO_LUMP_in_lb
+Abdominal pain,mrk_ABDO_PAIN_freq_in_lb,symp_ABDO_PAIN_freq_in_lb
+Constipation,mrk_all_CONS_new_onset,symp_all_CONS_new_onset
+Diarrhoea,mrk_all_DIARR_new_onset,symp_all_DIARR_new_onset
+Haemorrhoids,mrk_all_HAEMR_new_onset,symp_all_HAEMR_new_onset
+Change in Bowel habits,mrk_CHANGE_BH_in_lb,symp_CHANGE_BH_in_lb
+Diverticular,mrk_DIV_new_onset,symp_DIV_new_onset
+Fatigue ,mrk_FATIGUE_new_onset,symp_FATIGUE_new_onset
+IBS,mrk_IBS_new_onset,symp_IBS_new_onset
+Jaundice,mrk_JAUNDICE_new_onset,symp_JAUNDICE_new_onset
+Pelvic pain,mrk_PELVIC_PAIN_freq_in_lb,symp_PELVIC_PAIN_freq_in_lb
+Rectal bleed,mrk_RECTAL_BLEED_in_lb,symp_RECTAL_BLEED_in_lb
+Rectal mass,mrk_RECTAL_MASS_in_lb,symp_RECTAL_MASS_in_lb
+Stomach disorders,mrk_STOM_DIS_freq_in_lb,symp_STOM_DIS_freq_in_lb
+Weight loss,mrk_WEIGHT_LOSS_new_onset,symp_WEIGHT_LOSS_new_onset
+Multimorbidity Score (residual),multimorb_mm_score_res_fit,medhist_mm_score_res_fit
+Eligible for bowel cancer screening,other_bcscreen_eligible,medhist_bcscreen_eligible
+Colonoscopy in last 10 years,other_colonoscopy_ALL_in_10_yr_lb,medhist_colonoscopy_ALL_in_10_yr_lb
+Alcohol units daily,v0_alcohol_units_daily,lifestyle_alcohol_units_daily
+Birth year,v0_birth_year,core_birth_year
+BMI,v0_bmi,core_bmi
+Education,v0_edu_quals,lifestyle_edu_quals
+Ethnicity,v0_ethn_selfrep,core_ethn_selfrep
+Family history of bowel cancer,v0_famhist_bowel_cancer,medhist_famhist_bowel_cancer
+Family history of breast cancer,v0_famhist_breast_cancer,medhist_famhist_breast_cancer
+Family history of lung cancer,v0_famhist_lung_cancer,medhist_famhist_lung_cancer
+Fibre consumption,v0_partial_fibre_score,lifestyle_partial_fibre_score
+Sex (genetic),v0_sex_genetic,core_sex_genetic
+Smoking status,v0_smoking_status,core_smoking_status
+Physical Activity,v0_tot_METs_wk,lifestyle_tot_METs_wk
+Processed meat consumption,v0_tot_process_meat_wk,lifestyle_tot_process_meat_wk
+Red meat consumption,v0_tot_red_meat_wk,lifestyle_tot_red_meat_wk
+Townsend,v0_townsend,core_townsend
