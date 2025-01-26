@@ -26,4 +26,6 @@ TBC
 
 ## License
 
-TBC
+This project is licensed under the GNU General Public License v3.0 or later. See the [LICENSE](https://github.com/CCGE-Cambridge/ACED-CRC-modelling/blob/main/LICENSE.txt) file for the full license text.
+
+By contributing to this project, you agree to license your contributions under the same license.
